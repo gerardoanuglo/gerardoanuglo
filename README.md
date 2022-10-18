@@ -26,7 +26,7 @@ Eager to learn more, I committed and completed UCI’s 6 month intensive Data An
 
 - Email: gerardo.angulo20@gmail.com
 
-- Linkedin: https://www.linkedin.com/in/gerardo-angulo-7b564218b/
+- Linkedin: https://www.linkedin.com/in/gerardo-angulo/
 
 <!--
 **gerardoanuglo/gerardoanuglo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
