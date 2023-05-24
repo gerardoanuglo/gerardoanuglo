@@ -1,7 +1,7 @@
 ## About Me
-Data analyst with a B.A in Business Economics from UCR with experience working as a commercial underwriter for a team analyzing companies with premiums under $25k. Highly driven to pursue my dream as a sports data scientist, I juggled my full time job as an underwriter while completing Google’s Professional Data Analytics Certification. Passionate and persistent, I completed the certification and finished it off with my capstone project with the objective of using millions of rows of data to make a recommendation on how to best increase memberships for a ride sharing company in Chicago. 
+Hi! I'm Jerry, a Data Analyst with a degree in Business Economics and 3+ years combined experience using Python, SQL, and Tableau in data analysis, data mining, and predictive modeling to help businesses evaluate risk and determine market strategy. Passionate about exploring data and uncovering crucial insights to help companies make data driven decisions, solve enterprise problems and improve business processes in alignment with corporate goals
 
-Eager to learn more, I committed and completed UCI’s 6 month intensive Data Analytics Bootcamp Certification where I sharpened my skills of SQL, Python, machine learning models and more. In my latest project, I led a team of 4 that created a website which used a machine learning model with a 97% accuracy to predict a user's risk of having a brain stroke.
+I love connecting with people whenever I get the chance so feel free to reach out!
 
 ## Skills
 - Languages: Python, SQL, JavaScript, R, English and Spanish
@@ -20,7 +20,7 @@ Eager to learn more, I committed and completed UCI’s 6 month intensive Data An
 
 ⚡ Fun fact: 
 
-- I enjoy climbing, traveling and lifting weights. I'm a fan of the NFL and the NBA. My teams are the Seattle Seahawks and the LA Lakers! 
+- I enjoy climbing, traveling and lifting weights. I'm a fan sports fanatic. My teams are the LAKERS, RAMS, and Dodgers.
 
 📫 How to reach me:
 
